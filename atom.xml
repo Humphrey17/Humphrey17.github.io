@@ -6,7 +6,7 @@
   <link href="https://humphrey17.github.io/atom.xml" rel="self"/>
   
   <link href="https://humphrey17.github.io/"/>
-  <updated>2020-09-18T14:15:56.784Z</updated>
+  <updated>2020-09-18T19:17:34.828Z</updated>
   <id>https://humphrey17.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://humphrey17.github.io/2020/09/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>https://humphrey17.github.io/2020/09/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2020-09-18T09:55:23.000Z</published>
-    <updated>2020-09-18T14:15:56.784Z</updated>
+    <updated>2020-09-18T19:17:34.828Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\Humphrey17.github.io\assets\css\APlayer.min.css"><script src="\Humphrey17.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>作者: Humphrey17<br>链接:<br>來源: Butterfly<br>著作权归作者所有。商业转载请联络作者获得授权，非商业转载请注明出处。</p><hr>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\Humphrey17.github.io\assets\css\APlayer.min.css"><script src="\Humphrey17.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Maven-常用命令"><a href="#Maven-常用命令" class="headerlink" title="Maven 常用命令"></a>Maven 常用命令</h2><ol><li>mvn clean : 清除maven项目中的target目录</li><li>mvn compile: 编译maven项目下的java包，产生target目录</li><li>mvn test: 编译Java包与Java test包，产生target目录 </li><li>mvn package : 将项目打成war包或jar包，置于target目录下，并且编译Java包与Java test包</li></ol><h2 id="著作权归作者所有。商业转载请联络作者获得授权，非商业转载请注明出处。"><a href="#著作权归作者所有。商业转载请联络作者获得授权，非商业转载请注明出处。" class="headerlink" title="著作权归作者所有。商业转载请联络作者获得授权，非商业转载请注明出处。"></a>著作权归作者所有。商业转载请联络作者获得授权，非商业转载请注明出处。</h2>]]></content>
     
     
     <summary type="html">学习Maven的一些心得</summary>
