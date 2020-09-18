@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://humphrey17.github.io/link/index.html</loc>
+    
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://humphrey17.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://humphrey17.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://humphrey17.github.io/2020/09/18/hello-world/</loc>
     
     <lastmod>2020-09-18</lastmod>
