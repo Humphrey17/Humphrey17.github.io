@@ -6,7 +6,7 @@
   <link href="https://humphrey17.github.io/atom.xml" rel="self"/>
   
   <link href="https://humphrey17.github.io/"/>
-  <updated>2020-09-18T13:47:39.557Z</updated>
+  <updated>2020-09-18T14:15:56.784Z</updated>
   <id>https://humphrey17.github.io/</id>
   
   <author>
@@ -17,22 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇文章</title>
+    <title>Java学习之Maven</title>
     <link href="https://humphrey17.github.io/2020/09/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>https://humphrey17.github.io/2020/09/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2020-09-18T09:55:23.000Z</published>
-    <updated>2020-09-18T13:47:39.557Z</updated>
+    <updated>2020-09-18T14:15:56.784Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\Humphrey17.github.io\assets\css\APlayer.min.css"><script src="\Humphrey17.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>作者: Humphrey17<br>链接:<br>來源: Butterfly<br>著作权归作者所有。商业转载请联络作者获得授权，非商业转载请注明出处。</p><hr>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\Humphrey17.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\Humphrey</summary>
-      
+    <summary type="html">学习Maven的一些心得</summary>
     
     
     
+    <category term="Java" scheme="https://humphrey17.github.io/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://humphrey17.github.io/tags/Java/"/>
+    
+    <category term="Web" scheme="https://humphrey17.github.io/tags/Web/"/>
+    
+    <category term="Maven" scheme="https://humphrey17.github.io/tags/Maven/"/>
     
   </entry>
   
