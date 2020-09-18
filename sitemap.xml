@@ -69,14 +69,21 @@
 
   
   <url>
-    <loc>https://humphrey17.github.io/categories/Java/</loc>
+    <loc>https://humphrey17.github.io/categories/Web/</loc>
     <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://humphrey17.github.io/categories/Java/Web/</loc>
+    <loc>https://humphrey17.github.io/categories/Web/Java/</loc>
+    <lastmod>2020-09-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://humphrey17.github.io/categories/Web/Java/Maven/</loc>
     <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
