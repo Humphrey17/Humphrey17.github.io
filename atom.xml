@@ -6,7 +6,7 @@
   <link href="https://humphrey17.github.io/atom.xml" rel="self"/>
   
   <link href="https://humphrey17.github.io/"/>
-  <updated>2020-09-18T19:25:45.787Z</updated>
+  <updated>2020-09-18T21:27:25.004Z</updated>
   <id>https://humphrey17.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://humphrey17.github.io/2020/09/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>https://humphrey17.github.io/2020/09/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2020-09-18T09:55:23.000Z</published>
-    <updated>2020-09-18T19:25:45.787Z</updated>
+    <updated>2020-09-18T21:27:25.004Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\Humphrey17.github.io\assets\css\APlayer.min.css"><script src="\Humphrey17.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Maven-常用命令"><a href="#Maven-常用命令" class="headerlink" title="Maven 常用命令"></a>Maven 常用命令</h2><ol><li>mvn clean : 清除maven项目中的target目录</li><li>mvn compile: 编译maven项目下的java包，产生target目录</li><li>mvn test: 编译Java包与Java test包，产生target目录 </li><li>mvn package : 将项目打成war包或jar包，置于target目录下，并且编译Java包与Java test包</li></ol><hr>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\Humphrey17.github.io\assets\css\APlayer.min.css"><script src="\Humphrey17.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Maven-常用命令"><a href="#Maven-常用命令" class="headerlink" title="Maven 常用命令"></a>Maven 常用命令</h2><ol><li><p>mvn clean : 清除maven项目中的target目录</p></li><li><p>mvn compile: 编译maven项目下的java包，产生target目录</p></li><li><p>mvn test: 编译Java包与Java test包，产生target目录 </p></li><li><p>mvn package : 将项目打成war包或jar包，置于target目录下，并且编译Java包与Java test包</p><ul><li><p>在pom.xml中设置以下的 <code>&lt;packaging&gt;</code>标签内容，则打成的是war包</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">groupId</span>&gt;</span>com.mycompany.app<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>my-app<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">version</span>&gt;</span>1.0-SNAPSHOT<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">packaging</span>&gt;</span>war<span class="tag">&lt;/<span class="name">packaging</span>&gt;</span></span><br></pre></td></tr></table></figure></li></ul></li><li><p>mvn install : 同时完成complie、test、package的工作，同时将war包保存在本地的local repositories中</p><ul><li>注 install时出现如下问题</li></ul></li></ol><hr>]]></content>
     
     
     <summary type="html">学习Maven的一些心得</summary>
@@ -32,12 +32,14 @@
     
     <category term="Java" scheme="https://humphrey17.github.io/categories/Java/"/>
     
+    <category term="Web" scheme="https://humphrey17.github.io/categories/Java/Web/"/>
+    
     
     <category term="Java" scheme="https://humphrey17.github.io/tags/Java/"/>
     
-    <category term="Web" scheme="https://humphrey17.github.io/tags/Web/"/>
-    
     <category term="Maven" scheme="https://humphrey17.github.io/tags/Maven/"/>
+    
+    <category term="Web" scheme="https://humphrey17.github.io/tags/Web/"/>
     
   </entry>
   
