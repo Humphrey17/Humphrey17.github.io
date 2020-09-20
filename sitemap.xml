@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://humphrey17.github.io/2020/09/20/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%9801-%E9%BB%91%E9%A9%AC%E6%97%85%E6%B8%B8%E7%BD%91-%E6%B3%A8%E5%86%8C%E5%8A%9F%E8%83%BD/</loc>
+    
+    <lastmod>2020-09-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://humphrey17.github.io/2020/09/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
     
     <lastmod>2020-09-19</lastmod>
@@ -39,7 +46,7 @@
 
   <url>
     <loc>https://humphrey17.github.io/</loc>
-    <lastmod>2020-09-19</lastmod>
+    <lastmod>2020-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,21 +54,28 @@
   
   <url>
     <loc>https://humphrey17.github.io/tags/Java/</loc>
-    <lastmod>2020-09-19</lastmod>
+    <lastmod>2020-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://humphrey17.github.io/tags/Maven/</loc>
-    <lastmod>2020-09-19</lastmod>
+    <lastmod>2020-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://humphrey17.github.io/tags/Web/</loc>
-    <lastmod>2020-09-19</lastmod>
+    <lastmod>2020-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://humphrey17.github.io/tags/Web%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2020-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -70,21 +84,42 @@
   
   <url>
     <loc>https://humphrey17.github.io/categories/Web/</loc>
-    <lastmod>2020-09-19</lastmod>
+    <lastmod>2020-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://humphrey17.github.io/categories/Java/</loc>
+    <lastmod>2020-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://humphrey17.github.io/categories/Web/Java/</loc>
-    <lastmod>2020-09-19</lastmod>
+    <lastmod>2020-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://humphrey17.github.io/categories/Java/Web/</loc>
+    <lastmod>2020-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://humphrey17.github.io/categories/Web/Java/Maven/</loc>
-    <lastmod>2020-09-19</lastmod>
+    <lastmod>2020-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://humphrey17.github.io/categories/Java/Web/Web%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2020-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
