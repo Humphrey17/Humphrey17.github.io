@@ -6,7 +6,7 @@
   <link href="https://humphrey17.github.io/atom.xml" rel="self"/>
   
   <link href="https://humphrey17.github.io/"/>
-  <updated>2020-09-20T13:12:34.927Z</updated>
+  <updated>2020-09-20T14:22:04.956Z</updated>
   <id>https://humphrey17.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://humphrey17.github.io/2020/09/20/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%9801-%E9%BB%91%E9%A9%AC%E6%97%85%E6%B8%B8%E7%BD%91-%E6%B3%A8%E5%86%8C%E5%8A%9F%E8%83%BD/"/>
     <id>https://humphrey17.github.io/2020/09/20/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%9801-%E9%BB%91%E9%A9%AC%E6%97%85%E6%B8%B8%E7%BD%91-%E6%B3%A8%E5%86%8C%E5%8A%9F%E8%83%BD/</id>
     <published>2020-09-20T06:21:32.000Z</published>
-    <updated>2020-09-20T13:12:34.927Z</updated>
+    <updated>2020-09-20T14:22:04.956Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\Humphrey17.github.io\assets\css\APlayer.min.css"><script src="\Humphrey17.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="注册功能的实现"><a href="#注册功能的实现" class="headerlink" title="注册功能的实现"></a>注册功能的实现</h1><h2 id="一、表单校验"><a href="#一、表单校验" class="headerlink" title="一、表单校验"></a>一、表单校验</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">$(<span class="string">&quot;#registerForm&quot;</span>).submit(<span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="comment">//若校验通过，其中的check等方法均是对各个输入值的分别校验</span></span><br><span class="line">    <span class="keyword">if</span> (checkUsername() &amp;&amp; checkPassword() &amp;&amp; checkName() &amp;&amp; checkTel() &amp;&amp; checkBirth() &amp;&amp; checkCode()) &#123;</span><br><span class="line">        <span class="comment">//使用异步校验的方法,$(this).serialize()方法，这个将表单信息以&#123;&quot;username&quot;:&quot;zhangsan&quot;,&quot;password&quot;:214214&#125;的形式提交</span></span><br><span class="line">        $.post(<span class="string">&quot;registUserServlet&quot;</span>, $(<span class="built_in">this</span>).serialize(), <span class="function"><span class="keyword">function</span> (<span class="params">data</span>) </span>&#123;</span><br><span class="line"></span><br><span class="line">        &#125;);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">    <span class="comment">//如果这个方法没有返回值，或者返回true,则表单提交，如果返回为false,则表单不提交</span></span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -30,18 +30,14 @@
     
     
     
-    <category term="Java" scheme="https://humphrey17.github.io/categories/Java/"/>
+    <category term="Web" scheme="https://humphrey17.github.io/categories/Web/"/>
     
-    <category term="Web" scheme="https://humphrey17.github.io/categories/Java/Web/"/>
-    
-    <category term="Web项目实战" scheme="https://humphrey17.github.io/categories/Java/Web/Web%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
+    <category term="Web项目实战" scheme="https://humphrey17.github.io/categories/Web/Web%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
     
     
     <category term="Java" scheme="https://humphrey17.github.io/tags/Java/"/>
     
     <category term="Web" scheme="https://humphrey17.github.io/tags/Web/"/>
-    
-    <category term="Web项目实战" scheme="https://humphrey17.github.io/tags/Web%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
     
   </entry>
   
@@ -68,9 +64,9 @@
     
     <category term="Java" scheme="https://humphrey17.github.io/tags/Java/"/>
     
-    <category term="Maven" scheme="https://humphrey17.github.io/tags/Maven/"/>
-    
     <category term="Web" scheme="https://humphrey17.github.io/tags/Web/"/>
+    
+    <category term="Maven" scheme="https://humphrey17.github.io/tags/Maven/"/>
     
   </entry>
   

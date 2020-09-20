@@ -13,8 +13,6 @@
       
       <categories>
           
-          <category> Java </category>
-          
           <category> Web </category>
           
           <category> Web项目实战 </category>
@@ -27,8 +25,6 @@
             <tag> Java </tag>
             
             <tag> Web </tag>
-            
-            <tag> Web项目实战 </tag>
             
         </tags>
       
@@ -59,9 +55,9 @@
             
             <tag> Java </tag>
             
-            <tag> Maven </tag>
-            
             <tag> Web </tag>
+            
+            <tag> Maven </tag>
             
         </tags>
       
